@@ -1,0 +1,29 @@
+{
+  "name": "oapi2ois",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "oapi2ois": "bin/oapi2ois.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpor0/oapi2ois.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gpor0/oapi2ois/issues"
+  },
+  "homepage": "https://github.com/gpor0/oapi2ois#readme",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
